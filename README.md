@@ -1,2 +1,1 @@
-# jiecongwang.github.io
-personal site to how knowledge I learned
+# 个人技术博客
